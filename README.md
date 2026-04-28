@@ -53,15 +53,7 @@ Ensure you have the following installed:
   ```
 
 ## Team Members
-- [**Poornachandra Vatambedu**](https://github.com/Hackerpoorna) (Leader)
-- [Sri Hasya](https://github.com/srihasya)
 - [Nikhil Kumar](https://github.com/Nikhilkumar666)
-- [Gokul](https://github.com/Gokul2321)
-- [Sharat](https://github.com/SHARAT0628)
-- [Vineeth](https://github.com/VineethReddy06)
-
-## GitHub Repository
-[AI Cyber Threat Detector](https://github.com/Hackerpoorna/AI-Cyber-Threat-Detector)
 
 
 
